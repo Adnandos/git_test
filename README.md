@@ -1,0 +1,1 @@
+This is Adnandos's first git project
